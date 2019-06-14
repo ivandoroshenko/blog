@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .tb-col-3 {
+        width: 33.33%;
+    }
+}
+@media (min-width: 1024px) {
+    .dt-col-3 {
+        width: 33.33%;
+    }
+}
+
